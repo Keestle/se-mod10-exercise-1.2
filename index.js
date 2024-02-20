@@ -18,5 +18,5 @@ app.use(
 app.use('/products', productsRoutes);
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`*Changes made on 20.02.24 - Example app listening at http://localhost:${port}`)
 })
